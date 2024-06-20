@@ -4,7 +4,8 @@
 > 📌 Build an Tree View Application that shows companies Assets (The tree is basically composed with components, assets and locations)
 
 ## :iphone: Demo
-https://github.com/wurayan/tractian_mobile_challenge/blob/main/readme/demo.webm
+https://github.com/wurayan/tractian_mobile_challenge/assets/104945884/961f04f0-f383-4833-a67a-c0c13cd35395
+
 
 ## :gear: Packages
 - [http](https://pub.dev/packages/http)
